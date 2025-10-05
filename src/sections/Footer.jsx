@@ -13,7 +13,7 @@ const Footer = () => {
           </a>
 
           <p className=' mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque quaerat facere eaque expedita cum atque, dolore beatae sed quasi?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.  Neque quaerat facere eaque expedita cum atque, dolore beatae sed quasi?
           </p>
 
           <div className=' flex items-center gap-5 mt-8'>
